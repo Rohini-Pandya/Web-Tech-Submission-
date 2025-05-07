@@ -94,7 +94,7 @@ This HTML file contains a basic JavaScript program that prints "Hello World!" to
 **Title**: More on Calculations in JavaScript
 **Description**:
 This example demonstrates the use of assignment and arithmetic expressions in JavaScript. Variables `a` and `b` are used to perform assignment, addition, and subtraction operations, and the results are displayed using `document.write()`.
-**Author**: RohiniPadnua _ (24000053)
+**Author**: Rohini Padnya - (24000053)
 **How to Run**:
 
 1. Open the file in a web browser.
